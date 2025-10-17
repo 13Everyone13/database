@@ -7,4 +7,4 @@ https://docs.google.com/spreadsheets/d/1DSpjcfc1FlQKj6iJ6W25jBzhn2pfFtLb0grdSZX4
 
 JOIN запросы в MySQL
 
-https://docs.google.com/spreadsheets/d/1po7M6OBWxvTLctPwHX5xtkmKMmTmvADWHDXX3i5r3jo/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1DSpjcfc1FlQKj6iJ6W25jBzhn2pfFtLb0grdSZX4498/edit?gid=572369466#gid=572369466
